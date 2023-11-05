@@ -17,4 +17,4 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
       - name: Check Semver
-        uses: willesq/actions/enforce-semver@1.0.0
+        uses: willesq/actions/enforce-semver@v1
